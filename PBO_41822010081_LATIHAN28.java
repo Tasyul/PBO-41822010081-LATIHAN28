@@ -1,5 +1,11 @@
 package TASYA; 
-
+/**
+ * @author nstsy
+ * Nama : Anastasya azami
+ * NIM : 41822010081
+ * Nama : Syadella Putri Ardana
+ * NIM: 41822010037
+ */
 import java.util.Scanner;
 
 public class PBO_41822010081_LATIHAN28 {
